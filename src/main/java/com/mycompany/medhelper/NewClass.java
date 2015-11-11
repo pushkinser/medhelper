@@ -11,4 +11,8 @@ package com.mycompany.medhelper;
  */
 public class NewClass {
     
+    public static void main(String[] arg){
+        
+    }
+    
 }
